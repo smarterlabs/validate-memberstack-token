@@ -1,0 +1,20 @@
+{
+  "name": "validate-memberstack-token",
+  "description": "Validates Memberstack tokens",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erlapso/openai-api-node.git"
+  },
+  "author": {
+    "name": "Kennedy Rose",
+    "email": "kennedy@smarterlabs.com",
+    "url": "https://smarterlabs.com/"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
