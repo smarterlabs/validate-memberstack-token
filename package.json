@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/erlapso/openai-api-node.git"
+    "url": "https://github.com/smarterlabs/validate-memberstack-token.git"
   },
   "author": {
     "name": "Kennedy Rose",
